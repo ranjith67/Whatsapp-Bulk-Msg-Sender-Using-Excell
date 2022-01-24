@@ -50,3 +50,12 @@ Enable Developer tool
   3. On Blank Field Paste Img.
 ```
 <img src="rr/i14.jpg">
+
+### Step 5
+
+Run
+
+```bash
+  click on button 2
+```
+<img src="rr/i15.jpg">
