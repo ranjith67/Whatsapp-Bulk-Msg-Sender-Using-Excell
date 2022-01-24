@@ -33,12 +33,14 @@ Enable Developer tool
 ```bash
   Click On Options.
 ```
-<img src="rr/i1.jpg">
-
-### Step 4
+<img src="rr/i12.jpg">
 
 ```bash
-  Save This Excell file as Excell Macro Enabled Workbook
+  1. Click On Customize Ribbon.
+  2. Tick on Developer.
+  3. Press Ok.
 ```
-<img src="rr/i1.jpg">
+<img src="rr/i13.jpg">
+
+
 
