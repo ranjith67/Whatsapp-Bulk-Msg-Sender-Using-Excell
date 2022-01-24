@@ -42,5 +42,11 @@ Enable Developer tool
 ```
 <img src="rr/i13.jpg">
 
+### Step 4
 
-
+```bash
+  1. On Number Field Feed the Mobile Number.
+  2. On Message Field Feed the Message.
+  3. On Blank Field Paste Img.
+```
+<img src="rr/i14.jpg">
