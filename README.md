@@ -12,13 +12,15 @@ This is only for educational purpose.
 
 ## Instalation
 
+### Step 1
+
 Clone the project
 
 ```bash
   git clone https://github.com/ranjith67/Whatsapp-Bulk-Msg-Sender-Using-Excell.git
 ```
 
-### Step 1
+### Step 2
 
 ```bash
   Create a Excell file.
@@ -29,6 +31,7 @@ Clone the project
 ```bash
   Save This Excell file as 
 ```
+<img src="rr/i1">
 
 Start the server
 
