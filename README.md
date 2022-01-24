@@ -14,7 +14,7 @@ This is only for educational purpose.
 
 ### Step 1
 
-Clone the project
+Clone the project.
 
 ```bash
   git clone https://github.com/ranjith67/Whatsapp-Bulk-Msg-Sender-Using-Excell.git
@@ -23,19 +23,22 @@ Clone the project
 ### Step 2
 
 ```bash
-  Create a Excell file.
+  Open the file.
 ```
 
-### Step 2
+### Step 3
+
+Enable Developer tool
 
 ```bash
-  Save This Excell file as 
+  Click On Options.
 ```
-<img src="rr/i1">
+<img src="rr/i1.jpg">
 
-Start the server
+### Step 4
 
 ```bash
-  npm run start
+  Save This Excell file as Excell Macro Enabled Workbook
 ```
+<img src="rr/i1.jpg">
 
