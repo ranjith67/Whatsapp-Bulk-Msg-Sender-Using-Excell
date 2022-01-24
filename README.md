@@ -7,7 +7,7 @@ Note!!!!
 This is only for educational purpose.
 
 
-You Should have Whatsapp Desktop on your computer To send the message
+<h2>You Should have Whatsapp Desktop on your computer To send the message</h2>
 
 
 ## Instalation
